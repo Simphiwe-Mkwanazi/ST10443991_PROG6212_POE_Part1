@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "Qedp8vgRx4mLYZBQSyoJcv4GWnKWQPHHeYxuiK/cccA=",
+  "Source": "CMCS.Web",
+  "BasePath": "_content/CMCS.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CMCS.Web\\wwwroot",
+      "Source": "CMCS.Web",
+      "ContentRoot": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\",
+      "BasePath": "_content/CMCS.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\4t1gl1vkui-g0tte7tfuo.gz",
+      "SourceId": "CMCS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CMCS.Web",
+      "RelativePath": "css/site#[.{fingerprint=g0tte7tfuo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wt0ssp4eu2",
+      "Integrity": "NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\gtu0u3umjd-9tr1divzaw.gz",
+      "SourceId": "CMCS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CMCS.Web",
+      "RelativePath": "js/site#[.{fingerprint=9tr1divzaw}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\js\\site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x9onndnf7k",
+      "Integrity": "WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\css\\site.css",
+      "SourceId": "CMCS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\",
+      "BasePath": "_content/CMCS.Web",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g0tte7tfuo",
+      "Integrity": "IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\js\\site.js",
+      "SourceId": "CMCS.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\",
+      "BasePath": "_content/CMCS.Web",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tr1divzaw",
+      "Integrity": "81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\4t1gl1vkui-g0tte7tfuo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002564102564"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\4t1gl1vkui-g0tte7tfuo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g0tte7tfuo.css",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\4t1gl1vkui-g0tte7tfuo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002564102564"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0tte7tfuo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g0tte7tfuo.css",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0tte7tfuo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IBLPZ3l15fE0RVXxHxLhtg72HbaYz7W34TmEEYuTmVg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g0tte7tfuo.css.gz",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\4t1gl1vkui-g0tte7tfuo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g0tte7tfuo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFOlp2MrZtQAdNpVhVZ6RVNYjrrU+cTewBWgmvMfclM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.9tr1divzaw.js",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\gtu0u3umjd-9tr1divzaw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007874015748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tr1divzaw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.9tr1divzaw.js",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tr1divzaw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.9tr1divzaw.js.gz",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\gtu0u3umjd-9tr1divzaw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tr1divzaw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\gtu0u3umjd-9tr1divzaw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007874015748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-81eySM21356mO1V/tWxVJFvK8B89mNElimprcXqAhxg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\CMCS.Web\\obj\\Debug\\net9.0\\compressed\\gtu0u3umjd-9tr1divzaw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Sep 2025 14:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WyqAXI4aI9mhHTIuHxKz1PKUztcU2kFU/TjBN9jJ+lA="
+        }
+      ]
+    }
+  ]
+}

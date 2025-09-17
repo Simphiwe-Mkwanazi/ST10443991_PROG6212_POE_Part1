@@ -1,0 +1,4 @@
+C:\Users\lab_services_student\Desktop\CMCS_Prototype_NET9\src\CMCS.Web\wwwroot\css\site.css
+C:\Users\lab_services_student\Desktop\CMCS_Prototype_NET9\src\CMCS.Web\wwwroot\js\site.js
+wwwroot\css\site.css
+wwwroot\js\site.js

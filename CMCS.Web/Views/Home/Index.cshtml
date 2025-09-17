@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "CMCS Prototype - Dashboard";
+}
+<section class="hero">
+    <h1>@ViewBag.Message</h1>
+    <p>This is a non-functional prototype per Part 1 guidelines. Buttons trigger simulated messages only.</p>
+    <div class="kpis">
+        <div class="card"><h3>Draft</h3><p>1</p></div>
+        <div class="card"><h3>Submitted</h3><p>1</p></div>
+        <div class="card"><h3>Approved</h3><p>0</p></div>
+        <div class="card"><h3>Rejected</h3><p>0</p></div>
+    </div>
+    <a class="btn" href="/Claims/New">New Claim</a>
+</section>

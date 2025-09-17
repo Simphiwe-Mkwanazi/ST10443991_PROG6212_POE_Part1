@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "New Claim (Simulation)";
+}
+<h2>New Claim</h2>
+<div class="card">
+    <h3>Period</h3>
+    <p>Month: <select disabled><option>September</option></select> Year: <select disabled><option>2025</option></select></p>
+</div>
+<div class="card">
+    <h3>Items</h3>
+    <p>Grid is disabled in Part 1. Showing placeholder rows.</p>
+    <table class="grid">
+        <thead><tr><th>Date</th><th>Hours</th><th>Activity</th></tr></thead>
+        <tbody>
+            <tr><td>2025-09-10</td><td>2</td><td>Lecture</td></tr>
+            <tr><td>2025-09-12</td><td>1</td><td>Consultation</td></tr>
+        </tbody>
+    </table>
+</div>
+<div class="card">
+    <h3>Upload Documents</h3>
+    <p><input type="file" disabled /> (Simulation only)</p>
+</div>
+<div class="actions">
+    <button class="btn" onclick="simulateSubmit()">Submit (simulation)</button>
+</div>

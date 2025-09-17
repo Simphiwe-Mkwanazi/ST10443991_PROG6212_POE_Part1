@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Claim Detail";
+}
+<h2>Claim Detail – @ViewBag.ClaimId</h2>
+<div class="card">
+    <h3>Header</h3>
+    <p>Lecturer: A. Lecturer | Period: Sep 2025 | Status: Submitted</p>
+</div>
+<div class="card">
+    <h3>Items (read-only)</h3>
+    <table class="grid">
+        <thead><tr><th>Date</th><th>Hours</th><th>Activity</th><th>Notes</th></tr></thead>
+        <tbody>
+            <tr><td>2025-09-02</td><td>3</td><td>Lecture</td><td>—</td></tr>
+            <tr><td>2025-09-05</td><td>3</td><td>Prep</td><td>Slides</td></tr>
+        </tbody>
+    </table>
+</div>
+<div class="card">
+    <h3>Documents</h3>
+    <ul><li>Timesheet_Sep2025.pdf</li><li>POD_Claim001.pdf</li></ul>
+</div>
+<div class="actions">
+    <button class="btn" onclick="simulateSubmit()">Re-Submit (simulation)</button>
+</div>

@@ -1,0 +1,22 @@
+@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Approvals Queue";
+}
+<h2>Approvals Queue</h2>
+<table class="grid">
+    <thead>
+        <tr><th>Claim Id</th><th>Stage</th><th>Lecturer</th><th>Status</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (var q in Model)
+        {
+            <tr>
+                <td>@q.ClaimId</td>
+                <td>@q.Stage</td>
+                <td>@q.Lecturer</td>
+                <td><span class="badge">@q.Status</span></td>
+                <td><a class="btn btn-small" href="/Approvals/Detail/@q.ClaimId">Open</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
